@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Online Publication
 parent_type: SupplementalResourceSection
+parent_uid: 5fff0db5-801c-4640-647b-2436c93d280a
 resourcetype: Document
 title: chapter13.pdf
 uid: 8760f3af-cd4e-78fe-030a-a3da750a414a

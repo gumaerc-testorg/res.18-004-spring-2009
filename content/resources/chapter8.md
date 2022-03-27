@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Online Publication
 parent_type: SupplementalResourceSection
+parent_uid: 5fff0db5-801c-4640-647b-2436c93d280a
 resourcetype: Document
 title: chapter8.pdf
 uid: 168356d5-4f10-33cb-739a-06b24287c41d
