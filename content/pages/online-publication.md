@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
+parent_uid: null
 title: Online Publication
 uid: 5fff0db5-801c-4640-647b-2436c93d280a
 ---
@@ -15,14 +16,14 @@ Translations
 ------------
 
 *   German ([HTML](http://users.physik.tu-muenchen.de/teggert/torch/index.html))
-*   Spanish ([PDF - 3.1MB]({{< baseurl >}}/resources/mit_torch_or_firehose_spanish))
+*   Spanish ({{< resource_link fe0156da-d4de-44ab-1043-827907bdb6a9 "PDF - 3.1MB" >}})
 
 Contents
 --------
 
-*   Prologue ([PDF]({{< baseurl >}}/resources/prologue))
-*   Classroom Observation Checklist ([PDF]({{< baseurl >}}/resources/class_checklist))
-*   Index ([PDF]({{< baseurl >}}/resources/index-1))
+*   Prologue ({{< resource_link 1d3941cd-58e3-576c-5f64-43800fb2a454 "PDF" >}})
+*   Classroom Observation Checklist ({{< resource_link e27753c2-f49f-3161-2dfd-8a5a2bed89e1 "PDF" >}})
+*   Index ({{< resource_link 92ad8574-1b0f-8f1f-dd00-fe578ec9abf6 "PDF" >}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -42,7 +43,7 @@ NOTES
 1\. The Glass Wall: Encouraging Interaction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter1))
+({{< resource_link 8d21c0ad-43d6-a2b4-e06e-12925f67d6bc "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +52,7 @@ NOTES
 2\. Questions: Theirs and Yours
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter2))
+({{< resource_link 65a60a4b-1c0b-9329-0754-a31af19933f6 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +61,7 @@ NOTES
 3\. Before You Walk In
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter3))
+({{< resource_link b9dac993-2c41-0093-3909-5f836751df2f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ NOTES
 4\. A Word About Pedagogy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter4))
+({{< resource_link 896044fd-ad1a-5617-08c5-7296fbd9a6d4 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +79,7 @@ NOTES
 5\. In The Classroom
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter5))
+({{< resource_link 65a98b37-6a3d-21c6-808d-857d1211f163 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +88,7 @@ NOTES
 6\. Off to a Good Start
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter6))
+({{< resource_link ee94da48-824c-bb5c-193d-2e8df2f2f2ce "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +97,7 @@ NOTES
 7\. Basic Communication Skills
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter7))
+({{< resource_link 5211730b-06df-b932-4e67-4795ee2d9be4 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ NOTES
 8\. Seeing Is Understanding: Using the Blackboard
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter8))
+({{< resource_link 168356d5-4f10-33cb-739a-06b24287c41d "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +115,7 @@ NOTES
 9\. Evaluating Your Students: Assignment, Exams, Grades
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter9))
+({{< resource_link f6f71741-b373-137c-eec5-68416efb746f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +124,7 @@ NOTES
 10\. Evaluating You: Feedback
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter10))
+({{< resource_link cec2719e-f56c-664a-24c3-7c5ee09f35a4 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +133,7 @@ NOTES
 11\. Small Groups: Tutorials and Office Hours
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter11))
+({{< resource_link b59abf61-610c-aa95-5fb3-82060708bbe7 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +142,7 @@ NOTES
 12\. Invisible Students
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter12))
+({{< resource_link 5f3233c9-8a99-1450-90f4-8f43746925f2 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +151,7 @@ NOTES
 13\. Teachers From Other Countries
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter13))
+({{< resource_link 8760f3af-cd4e-78fe-030a-a3da750a414a "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +160,7 @@ NOTES
 14\. Problem Students and Students with Problem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter14))
+({{< resource_link 9d955319-844b-3d20-a262-246918d8c414 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +169,7 @@ NOTES
 15\. Epilogue: A Word about You
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter15))
+({{< resource_link 8e562128-433d-9a78-c855-9e17a935f12f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +178,7 @@ NOTES
 16\. Summary
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/chapter16))
+({{< resource_link 92da7b45-9ac0-deee-64a3-1dac91f6bad4 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
