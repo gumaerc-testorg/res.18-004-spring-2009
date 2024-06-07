@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/5211730b06dfb9324e674795ee2d9be4_chapter7.pdf
+file_size: 67746
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
