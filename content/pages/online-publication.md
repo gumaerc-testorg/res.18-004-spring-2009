@@ -21,7 +21,7 @@ Textbook
 Translations
 ------------
 
-*   German ({{% resource_link "a5271edc-9f6c-4bfd-afa8-aa683a27755d" "HTML" %}})
+*   German ([HTML](http://users.physik.tu-muenchen.de/teggert/torch/index.html))
 *   Spanish ({{% resource_link fe0156da-d4de-44ab-1043-827907bdb6a9 "PDF - 3.1MB" %}})
 
 Contents
