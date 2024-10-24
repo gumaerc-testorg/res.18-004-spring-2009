@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/b59abf61610caa955fb382060708bbe7_chapter11.pdf
+file: /ol-ocw-studio-app/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/b59abf61610caa955fb382060708bbe7_chapter11.pdf
 file_size: 69560
 file_type: application/pdf
 learning_resource_types: []
